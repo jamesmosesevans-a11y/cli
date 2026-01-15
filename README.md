@@ -100,6 +100,8 @@ There are two common ways to verify a downloaded release, depending on whether `
 For many years, [hub](https://github.com/github/hub) was the unofficial GitHub CLI tool. `gh` is a new project that helps us explore
 what an official GitHub CLI tool can look like with a fundamentally different design. While both
 tools bring GitHub to the terminal, `hub` behaves as a proxy to `git`, and `gh` is a standalone
-tool. Check out our [more detailed explanation](docs/gh-vs-hub.md) to learn more.
+tool. Check out our [more detailed explanation](docs/gh-vs-hub.md) to learn more 
 
-[releases page]: https://github.com/cli/cli/releases/latest
+# lock all gh nobody in any git 
+
+# moses James evans
