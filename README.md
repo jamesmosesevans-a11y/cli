@@ -104,4 +104,4 @@ tool. Check out our [more detailed explanation](docs/gh-vs-hub.md) to learn more
 
 # lock all gh nobody in any git 
 
-# moses James evans
+# moses James evans 
